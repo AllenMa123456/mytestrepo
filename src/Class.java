@@ -4,5 +4,9 @@ public class Class {
 
         this.num = num;
     }
+    public void setNum() {
+
+        this.num = num;
+    }
 
 }
